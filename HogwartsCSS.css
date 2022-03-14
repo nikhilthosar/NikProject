@@ -1,0 +1,36 @@
+p{
+   color: rgb(250, 246, 250)  ;
+}
+
+/* !important gives highest priority to this style over styles which comes later in file (default: later style get more priority) */
+
+body{
+   color: white;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+   font-weight: 200;
+   /* background-color: rgb(23, 3, 31); */
+   background-image: url("Harry Potter Wallpaper Hogwarts Hd Hogwarts crest grayfelt wp by.jpg");
+   /* filter: blur(10px); */
+   height: 100%;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-attachment: fixed;
+}
+
+ 
+h1{
+    
+   text-align: center;
+}
+h4
+{
+
+   text-align: center;
+}
+ 
+table
+{
+
+   background-color: black;
+}
